@@ -61,13 +61,13 @@ return.
 
 # Emphasis:  
 ## Bold  
-To bold text, add two asterisks or underscores before and after a word or phrase. To
+To bold text, add two asterisks (*) before and after a word or phrase. To
 bold the middle of a word for emphasis, add two asterisks without spaces around the
 letters.  
 ex. **Attention to detail with a creative eye.**
 
 ## Italic  
-To italicize text, add one asterisk or underscore before and after a word or phrase. To
+To italicize text, add one asterisk (*) before and after a word or phrase. To
 italicize the middle of a word for emphasis, add one asterisk without spaces around
 the letters.  
 ex. *Passionate about learning and developing.*
@@ -80,8 +80,7 @@ ex. Mark Zuckerberg believes:
 # Lists:  
 ## Numbered Lists  
 To create an ordered list, add line items with numbers followed by periods. The
-numbers don’t have to be in numerical order, but the list should start with the number
-one.  
+numbers don’t have to be in numerical order, but the list should start with the number one.  
 1. Jira
 2. Confluence
 3. Brackets
@@ -94,7 +93,7 @@ one.
 10. GitHub Desktop 
 
 ## Bullet Lists  
-To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.  
+To create an unordered list, add asterisks (*) in front of line items.  
 * Technical communication
 * Web technologies
     * HTML
@@ -113,8 +112,8 @@ To add a link to an image, enclose the Markdown for the image in brackets, and t
 ![Technical writer](https://745techprofcomm.files.wordpress.com/2013/11/technical-writer2.jpg)
 
 ## Linking URL
-To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses  (www.github.com).
-My favorite search engine is [Visit GitHub!](www.github.com).  
+To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.  
+[Visit GitHub!](www.github.com)  
 
 ## Linking to another file
 [Additional content](Visual Studio Code.md)
@@ -132,7 +131,8 @@ To add a table, use three or more hyphens (---) to create each column’s header
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left, right, or on both side of the hyphens within the header row.
 
 # Code  
-To indicate a span of code, wrap it with backtick quotes . Unlike a pre-formatted code block, a code span indicates code within a normal paragraph.  
+To indicate a span of code, wrap it with backtick quotes (`). Unlike a pre-formatted code block, a code span indicates code within a normal paragraph.
+
 ex. Specify `x=7;` when x equals two.
 
 To include a literal backtick character within a code span, you can use multiple backticks as the opening and closing delimiters.  
@@ -142,4 +142,4 @@ ex. x=7;
     z=x+y;
 ```
 # Cheatsheet
-![Cheatsheet](/assets/Markdownthree.jpg)
+![Cheatsheet](/assets/images/Markdownthree.jpg)
