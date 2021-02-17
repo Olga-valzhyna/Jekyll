@@ -126,7 +126,7 @@ To add a table, use three or more hyphens (---) to create each column’s header
 | header 1    | header 2    |  
 | ------------| ------------|  
 | course 1    | course 2    |  
-| something | something |  
+| lesson 1    | lesson 2    |  
 
 # Alignment  
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left, right, or on both side of the hyphens within the header row.
