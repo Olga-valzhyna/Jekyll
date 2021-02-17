@@ -31,7 +31,7 @@ nav_order: 3
   
 Markdown
 ----------
-![Markdown](/assets/images/Markdownone.png)
+![Markdown](https://cdn.foliovision.com/images/2017/03/i-love-markdown-580x387.png)
 
 # Markdown  
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. Nearly all Markdown applications support the basic syntax outlined in John Gruber’s original design document.
@@ -110,7 +110,7 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 ## Linking Images  
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.  
 
-![Technical writer](/assets/images/Markdowntwo.jpg)
+![Technical writer](https://745techprofcomm.files.wordpress.com/2013/11/technical-writer2.jpg)
 
 ## Linking URL
 To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses  (www.github.com).
@@ -123,10 +123,10 @@ My favorite search engine is [Visit GitHub!](www.github.com).
 
 # Tables  
 To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column. You can optionally add pipes on either end of the table.  
-| header 1    | header 2    |
-| ----------- | ----------- |
-| item 1      | item 2      |
-| something 1 | something 2 |
+| header 1    | header 2    |  
+| ----------- | ----------- |  
+| item 1      | item 2      |  
+| something 1 | something 2 |  
 
 # Alignment  
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left, right, or on both side of the hyphens within the header row.
