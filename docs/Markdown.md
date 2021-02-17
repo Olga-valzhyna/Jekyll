@@ -70,6 +70,7 @@ ex. **Attention to detail with a creative eye.**
 To italicize text, add one asterisk (*) before and after a word or phrase. To
 italicize the middle of a word for emphasis, add one asterisk without spaces around
 the letters.  
+
 ex. *Passionate about learning and developing.*
 
 # Blockquotes  
