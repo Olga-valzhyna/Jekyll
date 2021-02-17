@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Visual studio code
+title: Visual Studio Code
 nav_order: 2
 ---
 
 - [Visual Studio Code](#visual-studio-code)
-- [How to Install Visual Studio Code on Windows](#how-to-install-visual-studio-code-on-windows)
+- [How to install Visual Studio Code on Windows](#how-to-install-visual-studio-code-on-windows)
 - [Essential components of Visual Studio Code](#essential-components-of-visual-studio-code)
 - [Markdown and Visual Studio Code](#markdown-and-visual-studio-code)
 - [Additional options](#additional-options)
@@ -14,38 +14,38 @@ nav_order: 2
 Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
 Visual Studio Code has some very unique features:  
 1. Support for multiple programming languages
-2. Intelli-Sense
+2. IntelliSense
 3. Extensions and Support
 4. Repository
-5. Web-Support
+5. WebSupport
 6. Hierarchy Structure
 7. Improving Code
 8. Terminal Support
-9. Multi-Projects
+9. MultiProjects
 10. Git Support
 
-# How to Install Visual Studio Code on Windows  
+# How to install Visual Studio Code on Windows  
 1. Download the setup file from the official website:  [Visual Studio Code](https://code.visualstudio.com).
 ![Step1](assets/images/step1.jpg)
-1. After opening the website, click on the **Download for Windows** button. This will download the VS code Setup Wizard on the system as an EXE file.
+2. After opening the website, click on the **Download for Windows** button. This will download the VS code Setup Wizard on the system as an EXE file.
 ![Step2](assets/images/step2.png)
-1. Once it is downloaded, run the installer *(VSCodeUserSetup-{version}.exe)*. 
-2. At first, it recommends that we need to close all other applications before the VS code installation starts. It is not mandatory.
-3. Read the license agreement and choose whether we accept it or not. But the installation continues only after we accept the agreement.
+3. Once it is downloaded, run the installer **.exe**. 
+4. At first, it recommends that you need to close all other applications before the VS code installation starts. It is not mandatory.
+5. Read the license agreement and choose whether you accept it or not. But the installation continues only after you accept the agreement.
 ![Step3](assets/images/step3.png)
-1. Choose the location in the system to install the VS Code. If you are not bothering about the location, go with the default location. But, at least **205.5 MB** of free disk space is required in the selected location.
+6. Choose the location in the system to install the VS Code. If you are not bothering about the location, go with the default location. But, at least **205.5 MB** of free disk space is required in the selected location.
 ![Step4](assets/images/step4.png)
-1. As a default, the VS code shortcut will be placed in the Start Menu folder. You can change the destination or skip creating shortcuts.
+7. As a default, the VS code shortcut will be placed in the Start Menu folder. You can change the destination or skip creating shortcuts.
 ![Step5](assets/images/step5.png)
-1. You get a bunch of additional tasks to be performed before the installation begins. Choose tasks you prefer and continue.  
+8. You get a bunch of additional tasks to be performed before the installation begins. Choose tasks you prefer and continue.  
 ![Step6](assets/images/step6.png)
-1.  So you have set up everything and the VS code can be installed on your Windows 10 system now. Click on the install button.
+9.  So you have set up everything and the VS code can be installed on your Windows 10 system now. Click on the install button.
 ![Step7](assets/images/step7.png)
-1.  After the successful installation, you can launch the VS code on your system. Click on the finish button, and the visual studio code will get open.  
+10.  After the successful installation, you can launch the VS code on your system. Click on the finish button, and the Visual Studio Code will get open.  
 ![Step8](assets/images/step8.png)
 
 # Essential components of Visual Studio Code
-VS Code comes with a straight-forward and intuitive layout that maximizes the space provided for the editor while leaving ample room to browse. Additionally, it allows access to the full context of your folder or project. The UI is divided into **five areas**:
+VS Code comes with a straight-forward and intuitive layout that maximizes the space provided for the editor while leaving ample room to browse. Additionally, it allows access to the full context of your folder or project. The User Interface is divided into **five areas**:
 
 1. **Editor** – It is the main area to edit your files. You can open as many editors as possible side by side vertically and horizontally.
 2. **SideBar** – Contains different views like the Explorer to assist you while working on your project.
@@ -69,7 +69,7 @@ VS Code comes with a straight-forward and intuitive layout that maximizes the sp
 ![Step10](assets/images/step10.png)
 
 # Markdown and Visual Studio Code  
-Markdown is a formatting language used when the resulting document will be rendered or converted into **HTML** documents for web-viewable material. The format is commonly used to generate documents like readme’s in GitHub or blog posts and even this website. Markdown documents are written in plain text, and thus are often simpler to create, edit and manage using text editors intended for writing code.  
+Markdown is a formatting language used when the resulting document will be rendered or converted into **HTML** documents for web-viewable material. The format is commonly used to generate documents like readme’s in GitHub or blog posts. Markdown documents are written in plain text, and thus are often simpler to create, edit and manage using text editors intended for writing code.  
 
 VS Code supports Markdown files out of the box. You just start writing Markdown text, save the file with the **.md extension** and then you can toggle the visualization of the editor between the code and the preview of the Markdown file; obviously, you can also open an existing Markdown file and start working with it. To switch between views, press **Ctrl+Shift+V** in the editor. 
 
