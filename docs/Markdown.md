@@ -142,4 +142,4 @@ ex. x=7;
     z=x+y;
 ```
 # Cheatsheet
-![Cheatsheet](/assets/images/Markdownthree.jpg)
+![Cheatsheet](/assets/Markdownthree.jpg)
