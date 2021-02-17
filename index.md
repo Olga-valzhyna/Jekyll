@@ -7,4 +7,9 @@ permalink: /
 ---
 
 # Introduction
-You can use these links to find the original technical documentation.
+You can use these links to find the original technical documentation.  
+{% include 4.svg %}
+
+But I offer you to repeat a fascinating journey that we had during our classes of Technical communication technologies.
+
+Let's get it started!
