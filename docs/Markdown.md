@@ -67,7 +67,7 @@ letters.
 ex. **Attention to detail with a creative eye.**
 
 ## Italic  
-To italicize text, add one asterisk (*) before and after a word or phrase. To
+To italicize text, add one asterisk before and after a word or phrase. To
 italicize the middle of a word for emphasis, add one asterisk without spaces around
 the letters.  
 
@@ -124,9 +124,9 @@ To create a link, enclose the link text in brackets and then follow it immediate
 # Tables  
 To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column. You can optionally add pipes on either end of the table.  
 | header 1    | header 2    |  
-| ----------- | ----------- |  
-| item 1      | item 2      |  
-| something 1 | something 2 |  
+| -------------| -------------|  
+| course 1    | course 2    |  
+| something  | something  |  
 
 # Alignment  
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left, right, or on both side of the hyphens within the header row.
