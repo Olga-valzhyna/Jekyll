@@ -28,21 +28,21 @@ Visual Studio Code has some very unique features:
 1. Download the setup file from the official website:  [Visual Studio Code](https://code.visualstudio.com).
 ![Step1](assets/images/step1.jpg)
 1. After opening the website, click on the **Download for Windows** button. This will download the VS code Setup Wizard on the system as an EXE file.
-![Step2](assets/images/VSC/step2.png)
-3. Once it is downloaded, run the installer *(VSCodeUserSetup-{version}.exe)*. 
-4. At first, it recommends that we need to close all other applications before the VS code installation starts. It is not mandatory.
-5. Read the license agreement and choose whether we accept it or not. But the installation continues only after we accept the agreement.
-![Step3](assets/images/VSC/step3.png)
-6. Choose the location in the system to install the VS Code. If you are not bothering about the location, go with the default location. But, at least **205.5 MB** of free disk space is required in the selected location.
-![Step4](assets/images/VSC/step4.png)
-7. As a default, the VS code shortcut will be placed in the Start Menu folder. You can change the destination or skip creating shortcuts.
-![Step5](assets/images/VSC/step5.png)
-8. You get a bunch of additional tasks to be performed before the installation begins. Choose tasks you prefer and continue.  
-![Step6](assets/images/VSC/step6.png)
-9.  So you have set up everything and the VS code can be installed on your Windows 10 system now. Click on the install button.
-![Step7](assets/images/VSC/step7.png)
-10. After the successful installation, you can launch the VS code on your system. Click on the finish button, and the visual studio code will get open.  
-![Step8](assets/images/VSC/step8.png)
+![Step2](assets/images/step2.png)
+1. Once it is downloaded, run the installer *(VSCodeUserSetup-{version}.exe)*. 
+2. At first, it recommends that we need to close all other applications before the VS code installation starts. It is not mandatory.
+3. Read the license agreement and choose whether we accept it or not. But the installation continues only after we accept the agreement.
+![Step3](assets/images/step3.png)
+1. Choose the location in the system to install the VS Code. If you are not bothering about the location, go with the default location. But, at least **205.5 MB** of free disk space is required in the selected location.
+![Step4](assets/images/step4.png)
+1. As a default, the VS code shortcut will be placed in the Start Menu folder. You can change the destination or skip creating shortcuts.
+![Step5](assets/images/step5.png)
+1. You get a bunch of additional tasks to be performed before the installation begins. Choose tasks you prefer and continue.  
+![Step6](assets/images/step6.png)
+1.  So you have set up everything and the VS code can be installed on your Windows 10 system now. Click on the install button.
+![Step7](assets/images/step7.png)
+1.  After the successful installation, you can launch the VS code on your system. Click on the finish button, and the visual studio code will get open.  
+![Step8](assets/images/step8.png)
 
 # Essential components of Visual Studio Code
 VS Code comes with a straight-forward and intuitive layout that maximizes the space provided for the editor while leaving ample room to browse. Additionally, it allows access to the full context of your folder or project. The UI is divided into **five areas**:
@@ -53,7 +53,7 @@ VS Code comes with a straight-forward and intuitive layout that maximizes the sp
 4. **Activity Bar** – It is located on the far left-hand side. It lets you switch between views and gives you additional context-specific indicators, like the number of outgoing changes when Git is enabled.
 5. **Panels** – It displays different panels below the editor region for output or debug information, errors, and warnings, or an integrated terminal. Additionally, the panel can also move to the right for more vertical space.  
 
-![Step9](assets/images/VSC/step9.jpg)
+![Step9](assets/images/step9.jpg)
 
 **Available views:**
 
@@ -66,7 +66,7 @@ VS Code comes with a straight-forward and intuitive layout that maximizes the sp
 4. **Run** - VS Code's Run and Debug View displays variables, call stacks, and breakpoints.  
 5. **Extensions** - Install and manage your extensions within VS Code.  
 
-![Step10](assets/images/VSC/step10.png)
+![Step10](assets/images/step10.png)
 
 # Markdown and Visual Studio Code  
 Markdown is a formatting language used when the resulting document will be rendered or converted into **HTML** documents for web-viewable material. The format is commonly used to generate documents like readme’s in GitHub or blog posts and even this website. Markdown documents are written in plain text, and thus are often simpler to create, edit and manage using text editors intended for writing code.  
