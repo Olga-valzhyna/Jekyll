@@ -1,0 +1,15 @@
+name: Technical communication
+title: Jekyll
+description: An example of technical documentation hosted on Github pages, using the Just the Docs Jekyll theme
+remote_theme: Olga-valzhyna/just-the-docs
+
+color_scheme: dark
+
+aux_links:
+  "Source repository on GitHub":
+    - "//github.com/Olga-valzhyna/Olga-valzhyna.github.io"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "This documentation is part of the reference materials for the Technical Communication course at Vistula University (Warsaw). The content is based on <a href=\"https://github.com/flicstar/DITA-Mini-Manual\">Felicity Brand's example DITA project.</a>"
