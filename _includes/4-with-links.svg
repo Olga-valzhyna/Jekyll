@@ -1,4 +1,3 @@
-
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="523px"
     height="323px" viewBox="-0.5 -0.5 523 323"
     content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2021-02-14T16:48:01.150Z&quot; agent=&quot;5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.68&quot; etag=&quot;gxR4tA443My9vWVPjlhp&quot; version=&quot;14.3.1&quot; type=&quot;device&quot;&gt;&lt;diagram name=&quot;Page-1&quot; id=&quot;10a91c8b-09ff-31b1-d368-03940ed4cc9e&quot;&gt;7VhNc9owEP01HNOxLQzOsZCEHMqkHWbS5NQRtrBVhEVlOZj8+kpYsuUv4qGQ9JBcon1araR9b+3FAzDdZDMGt9GcBogMHCvIBuBm4Di2BTzxTyL7HHE9KwdChgPlVAIL/Ir0SoWmOEBJxZFTSjjeVkGfxjHyeQWDjNFd1W1FSXXXLQxRA1j4kDTRnzjgkUJtyyon7hEOI7W156qJJfTXIaNprPYbOGB1+MunN1DHUv5JBAO6MyBwOwBTRinPR5tsiojMrU5bvu6uY7Y4N0Mx77PglT/N53/Aw/3jQ/Rr9sMdBtnT1SiP8gJJivQ1Dofle50gFIh8KZMyHtGQxpDclujkkAQkt7GEVfp8o3QrQFuAvxHne0U+TDkVUMQ3RM3me8qNOu+moISmzFdeI8e7Brbn+dYKjsHIubLV4TlkIeIdTnkklaIZohvE2V4sYohAjl+qJ4BKXGHhVyZYDFSO2/PdebxKskdEHHSSbGEsxqEcP+IkhTLQgqcBpmIwFUWnPcWupnODrV2EOVps4SFJO1Gy1UyXVEmrkKQ0CFwiMilEPaWEMjEV01hynHBG10WFSP8Vjfkd3GAiC/8RsQDGUMGKaHFhMIEEh7EwfEElYsWRW7h9QYyjzICaJOnZkaop9cwB9viLmyM7o4a1V2SWr3UJZkEvZmeY36fLTyYNJofDGpP6afkWj2P3AjwW5z/O4xyytch2fHYmrX9h0vm/anLo9WTyIhXp9HvW6oq0blCy5uJt9clod22+K6Ot3Yrbo1uJg6+yK5S5IDBJsH9IK2S8CRuMoQzzJ8mXeI/k1rNiT45vMtPYayMWdzIWSfNZx5NGuexg6XVn6nb05Y92O/mbqUmxQaHbwqDGejdFaofvFIsrlAryagpya8rIL6hWmb1rLZALaoGsWqA8CY1AB5UV1z5deOPLCa8QkSkhQ1EdItKCtU25FuJtF+yZhNerzf5Y4YGaXsD4ROENa281d/i+wrs+UXhnUFh/tRz/veV8qBCcGn/OiUIoFKSfQHVFXVgI+nPJMSVU2443epQVJuRo9wEKDTRahhYVdPeFNQacli6iYMVUAKhT1aONEGb5QSVPffnVCtz+BQ==&lt;/diagram&gt;&lt;/mxfile&gt;"
@@ -13,82 +12,18 @@
             pointer-events="all" transform="translate(2,3)" opacity="0.25" />
         <rect x="41" y="38.5" width="160" height="80" rx="12" ry="12" fill="#ffffff" stroke="#000000"
             pointer-events="all" />
-        <g transform="translate(-0.5 -0.5)">
-            <switch>
-                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%"
-                    height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 79px; margin-left: 42px;">
-                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                            <div
-                                style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                <span>Visual Studio Code</span></div>
-                        </div>
-                    </div>
-                </foreignObject><text x="121" y="82" fill="#000000" font-family="Verdana" font-size="12px"
-                    text-anchor="middle">Visual Studio Code</text>
-            </switch>
-        </g>
         <rect x="321" y="41" width="160" height="75" rx="11.25" ry="11.25" fill="#000000" stroke="#000000"
             pointer-events="all" transform="translate(2,3)" opacity="0.25" />
         <rect x="321" y="41" width="160" height="75" rx="11.25" ry="11.25" fill="#ffffff" stroke="#000000"
             pointer-events="all" />
-        <g transform="translate(-0.5 -0.5)">
-            <switch>
-                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%"
-                    height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 79px; margin-left: 322px;">
-                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                            <div
-                                style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                <span>GitHub</span></div>
-                        </div>
-                    </div>
-                </foreignObject><text x="401" y="82" fill="#000000" font-family="Verdana" font-size="12px"
-                    text-anchor="middle">GitHub</text>
-            </switch>
-        </g>
         <rect x="41" y="201" width="160" height="80" fill="#000000" stroke="#000000" stroke-width="2"
             pointer-events="all" transform="translate(2,3)" opacity="0.25" />
         <rect x="41" y="201" width="160" height="80" fill="#ffffff" stroke="#000000" stroke-width="2"
             pointer-events="all" />
-        <g transform="translate(-0.5 -0.5)">
-            <switch>
-                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%"
-                    height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 241px; margin-left: 42px;">
-                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                            <div
-                                style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                <span>Markdown</span></div>
-                        </div>
-                    </div>
-                </foreignObject><text x="121" y="245" fill="#000000" font-family="Verdana" font-size="12px"
-                    text-anchor="middle">Markdown</text>
-            </switch>
-        </g>
         <rect x="321" y="201" width="160" height="80" fill="#000000" stroke="#000000" stroke-width="2"
             pointer-events="all" transform="translate(2,3)" opacity="0.25" />
         <rect x="321" y="201" width="160" height="80" fill="#ffffff" stroke="#000000" stroke-width="2"
             pointer-events="all" />
-        <g transform="translate(-0.5 -0.5)">
-            <switch>
-                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%"
-                    height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml"
-                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 241px; margin-left: 322px;">
-                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
-                            <div
-                                style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                <span>GitHub Desktop</span></div>
-                        </div>
-                    </div>
-                </foreignObject><text x="401" y="245" fill="#000000" font-family="Verdana" font-size="12px"
-                    text-anchor="middle">GitHub Desktop</text>
-            </switch>
-        </g>
         <path d="M 401 194.63 L 401 122.37" fill="none" stroke="#000000" stroke-miterlimit="10"
             pointer-events="stroke" />
         <path d="M 401 199.88 L 397.5 192.88 L 401 194.63 L 404.5 192.88 Z" fill="#000000" stroke="#000000"
@@ -106,6 +41,79 @@
             stroke-miterlimit="10" pointer-events="all" />
         <rect x="1" y="1" width="520" height="320" fill="none" stroke="#000000" stroke-width="3" pointer-events="all" />
     </g>
+    <a href="https://code.visualstudio.com/docs/">
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%"
+                    height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 79px; margin-left: 42px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div
+                                style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span>Visual Studio Code</span></div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="121" y="82" fill="#000000" font-family="Verdana" font-size="12px"
+                    text-anchor="middle">Visual Studio Code</text>
+            </switch>
+        </g>
+    </a>
+    <a href="https://docs.github.com/en/desktop">
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%"
+                    height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 241px; margin-left: 322px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div
+                                style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span>GitHub Desktop</span></div>
+                        </div>
+                    </div>
+                </foreignObject><text x="401" y="245" fill="#000000" font-family="Verdana" font-size="12px"
+                    text-anchor="middle">GitHub Desktop</text>
+            </switch>
+        </g>
+    </a>
+    <a href="https://www.markdownguide.org/getting-started">
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%"
+                    height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 241px; margin-left: 42px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div
+                                style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span>Markdown</span></div>
+                        </div>
+                    </div>
+                </foreignObject><text x="121" y="245" fill="#000000" font-family="Verdana" font-size="12px"
+                    text-anchor="middle">Markdown</text>
+            </switch>
+        </g>
+    </a>
+    <a href="https://docs.github.com/en">
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%"
+                    height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                        style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 79px; margin-left: 322px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div
+                                style="display: inline-block; font-size: 12px; font-family: Verdana; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span>GitHub</span></div>
+                        </div>
+                    </div>
+                </foreignObject><text x="401" y="82" fill="#000000" font-family="Verdana" font-size="12px"
+                    text-anchor="middle">GitHub</text>
+            </switch>
+        </g>
+    </a>
     <switch>
         <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" /><a transform="translate(0,-5)"
             xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank"><text
