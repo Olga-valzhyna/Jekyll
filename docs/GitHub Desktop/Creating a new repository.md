@@ -14,6 +14,8 @@ nav_order: 2
 * **Initialize this repository with a README** creates an initial commit with a README.md file. READMEs help people understand the purpose of your project. When someone visits your repository on GitHub, the README is the first thing they'll see as they learn about your project. For more information, see "About READMEs."  
 * The **Git ignore** drop-down menu lets you add a custom file to ignore specific files in your local repository that you don't want to store in version control. If there's a specific language or framework that you'll be using, you can select an option from the available list. If you're just getting started, feel free to skip this selection.  
 * The **License** drop-down menu lets you add an open-source license to a LICENSE file in your repository. You don't need to worry about adding a license right away. 
+  
 ![GitHub Desktop](/assets/images/D4.jpg)
+
 4. Click Create repository.
 
