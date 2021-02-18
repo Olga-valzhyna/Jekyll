@@ -37,8 +37,7 @@ Markdown
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. Nearly all Markdown applications support the basic syntax outlined in John Gruber’s original design document.
 
 # Headers  
-To create a header, preface the phrase with a hash mark (#). You place the same number of hash marks as the size of the header you want. For example, for a header one, you'd use one hash mark, while for a header three, you'd use three. 
-
+To create a header, preface the phrase with a hash mark (#). You place the same number of hash marks as the size of the header you want. For example, for a header one, you'd use one hash mark, while for a header three, you'd use three.  
 ![Technical writer](/assets/images/M1.jpg)
 
 ## ex. 2 Customer
@@ -114,7 +113,7 @@ To add a link to an image, enclose the Markdown for the image in brackets, and t
 
 ![Technical writer](/assets/images/M2.jpg)
 
-![Technical writer](/assets/images/writer.jpg) {: style="width: 200px;"}
+![Technical writer](/assets/images/writer.jpg)
 
 ## Linking URL
 To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.  
