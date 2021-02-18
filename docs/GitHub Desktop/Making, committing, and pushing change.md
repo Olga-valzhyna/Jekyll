@@ -12,7 +12,7 @@ nav_order: 4
 5. Click Commit to **BRANCH NAME**. The commit button shows your current branch so you can be sure to commit to the branch you want.
 
 ![GitHub Desktop](/assets/images/D8.jpg)  
-6. To push your changes to the remote repository on GitHub, click **Push origin**.  
+To push your changes to the remote repository on GitHub, click **Push origin**.  
    
 ![GitHub Desktop](/assets/images/D9.jpg)
 
