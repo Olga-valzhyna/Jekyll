@@ -110,7 +110,7 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 ## Linking Images  
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.  
 
-![Technical writer](/assets/images/writer.jpg)
+![Technical writer](jekyll/assets/images/writer.jpg)
 
 ## Linking URL
 To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.  
@@ -143,4 +143,4 @@ ex. x=7;
     z=x+y;
 ```
 # Cheatsheet
-![Cheatsheet](/assets/images/Markdownthree.jpg)
+![Cheatsheet](jekyll/assets/images/Markdownthree.jpg)
