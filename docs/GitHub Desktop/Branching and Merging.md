@@ -5,11 +5,11 @@ parent: GitHub Desktop
 nav_order: 5
 ---
 - [Branching and Merging](#branching-and-merging)
-  - [If you want to invite someone to collaborate on your repository:](#if-you-want-to-invite-someone-to-collaborate-on-your-repository)
+  - [If you want to invite someone to collaborate on your repository](#if-you-want-to-invite-someone-to-collaborate-on-your-repository)
   - [If you are invited as a collaborator](#if-you-are-invited-as-a-collaborator)
 # Branching and Merging
 
-## If you want to invite someone to collaborate on your repository:  
+## If you want to invite someone to collaborate on your repository  
 
 * On **github.com** choose **Settings > Branches > Branch protection rules > Add rule > master > Require pull request reviews before merging**
 
