@@ -17,5 +17,5 @@ nav_order: 2
   
 ![GitHub Desktop](/assets/images/D4.jpg)
 
-4. Click Create repository.
+Click **Create repository**.
 
