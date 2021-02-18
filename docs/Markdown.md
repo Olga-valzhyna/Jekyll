@@ -38,6 +38,7 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 
 # Headers  
 To create a header, preface the phrase with a hash mark (#). You place the same number of hash marks as the size of the header you want. For example, for a header one, you'd use one hash mark, while for a header three, you'd use three. 
+![Technical writer](/assets/images/M1.jpg)
 
 ## ex. 2 Customer
 ### ex. 3 Project manager
@@ -109,20 +110,27 @@ To add an image, add an exclamation mark (!), followed by alt text in brackets, 
 
 ## Linking Images  
 To add a link to an image, enclose the Markdown for the image in brackets, and then add the link in parentheses.  
+![Technical writer](/assets/images/M2.jpg)
 
-![Technical writer](/assets/images/writer.jpg)
+![Technical writer](/assets/images/writer.jpg) {: style="width: 200px;"}
 
 ## Linking URL
 To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.  
+![Technical writer](/assets/images/M3.jpg)
+
 [Visit GitHub!](www.github.com)  
 
 ## Linking to another file
+![Technical writer](/assets/images/M4.jpg)
+
 [Additional content](Visual Studio Code.md)
 
 
 
 # Tables  
 To add a table, use three or more hyphens (---) to create each column’s header, and use pipes (|) to separate each column. You can optionally add pipes on either end of the table.  
+![Technical writer](/assets/images/M5.jpg)
+
 | header 1    | header 2    |  
 | ------------| ------------|  
 | course 1    | course 2    |  
@@ -137,6 +145,9 @@ To indicate a span of code, wrap it with backtick quotes (`). Unlike a pre-forma
 ex. Specify `x=7;` when x equals two.
 
 To include a literal backtick character within a code span, you can use multiple backticks as the opening and closing delimiters.  
+
+![Technical writer](/assets/images/M6.jpg)
+
 ```
 ex. x=7;
     y=17;
