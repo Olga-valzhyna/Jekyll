@@ -41,9 +41,9 @@ GitHub
 2. Click the name of the file to bring up that file (for example, click README.md to go to the readme file).
 3. Click the pencil icon in the upper right corner of the file and make some changes.
 ![Step](/assets/images/GH6.jpg)
-1. Write a short message in the box that describes the changes you made (and an extended description if you want).
-2. Click the **Commit changes** button.
-![Step](assets/images/GH7.jpg)
+4. Write a short message in the box that describes the changes you made (and an extended description if you want).
+5. Click the **Commit changes** button.
+![Step](/assets/images/GH7.jpg)
 
 # How to fork a repository  
 
@@ -51,18 +51,18 @@ GitHub
  in the search bar.
 2. Select the one you need among the repositories.
 3. Press **Fork button** to initiate the git forking process.
-![Step](assets/images/GH5.jpg)
-1. The repository will be forked to your account instantly. This can be seen by your username after forking the repository.
-2. If you want to store the repo on your local machine, on the right side of the screen, below the **Contributors** tab, you’ll see a green button that says **Clone or Download**. Go ahead and click that.  
+![Step](/assets/images/GH5.jpg)
+4. The repository will be forked to your account instantly. This can be seen by your username after forking the repository.
+5. If you want to store the repo on your local machine, on the right side of the screen, below the **Contributors** tab, you’ll see a green button that says **Clone or Download**. Go ahead and click that.  
 
 # How to invite collaborators to your repository  
 1. Under your repository name, click **Settings**.
-![Step1](assets/images/GH1.jpg)
-1. In the left sidebar, click **Manage access**.
-![Step2](assets/images/GH2.jpg)
-1. Click **Invite a collaborator**.
-![Step3](assets/images/GH3.jpg)
-1. In the search field, start typing the name of person you want to invite, then click a name in the list of matches.
-![Step4](assets/images/GH4.jpg)
-1. Click Add NAME to REPOSITORY.
-2. The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
+![Step1](/assets/images/GH1.jpg)
+2. In the left sidebar, click **Manage access**.
+![Step2](/assets/images/GH2.jpg)
+3. Click **Invite a collaborator**.
+![Step3](/assets/images/GH3.jpg)
+4. In the search field, start typing the name of person you want to invite, then click a name in the list of matches.
+![Step4](/assets/images/GH4.jpg)
+5. Click Add NAME to REPOSITORY.
+6. The user will receive an email inviting them to the repository. Once they accept your invitation, they will have collaborator access to your repository.
