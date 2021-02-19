@@ -31,7 +31,7 @@ GitHub
 
 # How to create a repository  
 1. Go to the GitHub website, look in the upper right corner, and click the + sign and then click “New repository.”
-![Step](/assets/images/GH8.jpg)
+![Step](/assets/images/GH8.jpg){: style="width: 400px;"}
 2. Name the repository, and add a quick description.
 3. Decide whether you want this to be a public or a private repository.
 4. Click **Initialize this repository with a README** if you want to include the README file. 
