@@ -31,7 +31,7 @@ nav_order: 3
   
 Markdown
 ----------
-![Markdown](https://cdn.foliovision.com/images/2017/03/i-love-markdown-580x387.png)
+![Markdown](https://cdn.foliovision.com/images/2017/03/i-love-markdown-580x387.png){: style="width: 400px;"}
 
 # Markdown  
 Markdown is a lightweight markup language for creating formatted text using a plain-text editor. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files. Nearly all Markdown applications support the basic syntax outlined in John Gruber’s original design document.
@@ -104,7 +104,7 @@ To create an unordered list, add asterisks (*) in front of line items.
 
 # Images  
 To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title after the URL in the parentheses.  
-![Technical writer](https://res.cloudinary.com/teepublic/image/private/s--0tQw5Of8--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829015:production:blanks:mtl53ofohwq5goqjo9ke,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1541233046/production/designs/3434489_0.jpg)
+![Technical writer](https://res.cloudinary.com/teepublic/image/private/s--0tQw5Of8--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829015:production:blanks:mtl53ofohwq5goqjo9ke,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1541233046/production/designs/3434489_0.jpg){: style="width: 400px;"}
 
 # Links
 
@@ -113,7 +113,7 @@ To add a link to an image, enclose the Markdown for the image in brackets, and t
 
 ![Technical writer](/assets/images/M2.jpg)
 
-![Technical writer](/assets/images/writer.jpg)
+![Technical writer](/assets/images/writer.jpg){: style="width: 400px;"}
 
 ## Linking URL
 To create a link, enclose the link text in brackets and then follow it immediately with the URL in parentheses.  
