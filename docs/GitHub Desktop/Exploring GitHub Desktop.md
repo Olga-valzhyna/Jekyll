@@ -26,11 +26,11 @@ At the top of the GitHub Desktop app, you will see a bar that shows the current 
 In the left sidebar, you'll find the Changes and History views.
 The **Changes** view shows changes you've made to files in your current branch but haven't committed to your local repository. At the bottom, there is a box with "Summary" and "Description" text boxes and a Commit to BRANCH button. This is where you'll commit new changes. The Commit to BRANCH button is dynamic and will display which branch you're committing your changes to.  
 
-![GitHub Desktop](/assets/images/D6.jpg)
+![GitHub Desktop](/assets/images/D6.jpg){: style="width: 400px;"}
 
 The **History** view shows the previous commits on the current branch of your repository. You should see an "Initial commit" that was created by GitHub Desktop when you created your repository. To the right of the commit, depending on the options you selected while creating your repository, you may see .gitattributes, .gitignore, LICENSE, or README files. You can click each file to see a diff for that file, which is the changes made to the file in that commit. The diff only shows the parts of the file that have changed, not the entire contents of the file.  
 
-![GitHub Desktop](/assets/images/D7.jpg)
+![GitHub Desktop](/assets/images/D7.jpg){: style="width: 400px;"}
 
 # Publishing your repository to GitHub
 When you create a new repository, it only exists on your computer and you are the only one who can access the repository. You can publish your repository to GitHub to keep it synchronized across multiple computers and allow other people to access it. To publish your repository, push your local changes to GitHub.

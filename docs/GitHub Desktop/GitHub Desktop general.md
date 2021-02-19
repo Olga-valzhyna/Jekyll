@@ -15,13 +15,13 @@ GitHub Desktop is an application that enables you to interact with GitHub using 
 1. Visit the download page for GitHub Desktop.
    [ GitHub Desktop!](https://desktop.github.com/)
 2. Click Download for Windows.
-   ![GitHub Desktop](/assets/images/D1.jpg)
+   ![GitHub Desktop](/assets/images/D1.jpg){: style="width: 400px;"}
 3. In your computer's Downloads folder, double-click the GitHub Desktop setup file.
 4. GitHub Desktop will launch after installation is complete.
 5. Before you can authenticate to GitHub, you will need an account. 
 6. Use the File menu, then click Options.
 7. In the Options window, select Accounts.
-   ![GitHub Desktop](/assets/images/D2.jpg)
+   ![GitHub Desktop](/assets/images/D2.jpg){: style="width: 400px;"}
 8. To the right of GitHub.com, click **Sign in**.
 9.  In the Sign in pane, click **Sign in** using your browser.
 10. To authenticate to GitHub, type your **GitHub.com credentials** and click **Sign in**.  
@@ -34,5 +34,5 @@ Choose **Integrations** to pick an external editor or shell.
 Choose **Git** to edit your Git configuration.  
 Choose **Appearance** to switch between the light or dark theme.  
 Choose **Advanced** for more configuration options.  
-![GitHub Desktop](/assets/images/D3.jpg)
+![GitHub Desktop](/assets/images/D3.jpg){: style="width: 400px;"}
 
