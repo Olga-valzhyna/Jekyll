@@ -28,7 +28,7 @@ nav_order: 3
 - [Alignment](#alignment)
 - [Code](#code)
 - [Cheatsheet](#cheatsheet)
-- [Helpful links:](#helpful-links)
+- [Helpful links](#helpful-links)
   
 Markdown
 ----------
@@ -161,7 +161,7 @@ ex. x=7;
 # Cheatsheet
 ![Cheatsheet](/assets/images/Markdownthree.jpg)
 
-# Helpful links:
+# Helpful links
 [Specification](https://daringfireball.net/projects/markdown/)  
 [Tutorial](https://commonmark.org/help/tutorial/index.html)  
 [Dialects/Flavours](https://sodocumentation.net/markdown/topic/1865/dialects-flavours)  
