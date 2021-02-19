@@ -33,13 +33,13 @@ Visual Studio Code has some very unique features:
 4. At first, it recommends that you need to close all other applications before the VS code installation starts. It is not mandatory.
 5. Read the license agreement and choose whether you accept it or not. But the installation continues only after you accept the agreement.
 ![Step3](/assets/images/step3.png)
-6. Choose the location in the system to install the VS Code. If you are not bothering about the location, go with the default location. But, at least **205.5 MB** of free disk space is required in the selected location.
+6. Choose the location in the system to install the VS Code. If you are not bothering about the location, go with the default location. But, at least **205.5 MB** of free disk space is required in the selected location.  
 ![Step4](/assets/images/step4.png)
 7. As a default, the VS code shortcut will be placed in the Start Menu folder. You can change the destination or skip creating shortcuts.
 ![Step5](/assets/images/step5.png)
 8. You get a bunch of additional tasks to be performed before the installation begins. Choose tasks you prefer and continue.  
 ![Step6](/assets/images/step6.png)
-9.  So you have set up everything and the VS code can be installed on your Windows 10 system now. Click on the install button.
+9.  So you have set up everything and the VS code can be installed on your Windows 10 system now. Click on the install button.  
 ![Step7](/assets/images/step7.png)
 10.  After the successful installation, you can launch the VS code on your system. Click on the finish button, and the Visual Studio Code will get open.  
 ![Step8](/assets/images/step8.png)
