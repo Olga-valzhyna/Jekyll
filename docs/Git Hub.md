@@ -19,11 +19,11 @@ GitHub
 1. Go to [GitHub](https://github.com/join) in a web browser.
 2. Enter your personal details. In addition to creating a **username** and entering an **email address**, you'll also have to create a **password**.  
 *Your password must be at least 15 characters in length or at least 8 characters with at least one number and lowercase letter.*  
-![Step](/assets/images/GH9.jpg){: style="width: 200px;"}
+![Step](/assets/images/GH9.jpg){: style="width: 400px;"}
 
 3. Click the **Create an account** button.
 4. Complete the **CAPTCHA** puzzle. The instructions vary by puzzle, so just follow the on-screen instructions to confirm that you are a human.
-![Step](/assets/images/GH10.jpg){: style="width: 200px;"}
+![Step](/assets/images/GH10.jpg){: style="width: 400px;"}
 1. Click the **Choose** button for your desired plan. Once you select a plan, GitHub will send an email confirmation message to the address you entered.
 2. Click the **Verify email** address button in the message from GitHub. This confirms your email address and returns you to the sign-up process.
 3. Review your plan selection and click **Continue**. You can also choose whether you want to receive updates from GitHub via email by checking or unchecking the "Send me updates" box.
