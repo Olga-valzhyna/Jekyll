@@ -28,6 +28,7 @@ nav_order: 3
 - [Alignment](#alignment)
 - [Code](#code)
 - [Cheatsheet](#cheatsheet)
+- [Helpful links:](#helpful-links)
   
 Markdown
 ----------
@@ -135,10 +136,10 @@ To add a table, use three or more hyphens (---) to create each column’s header
 
 ![Technical writer](/assets/images/M5.jpg)
 
-| header 1    | header 2    |  
-| ------------| ------------|  
-| course 1    | course 2    |  
-| lesson 1    | lesson 2    |  
+| header 1 | header 2 |
+| -------- | -------- |
+| course 1 | course 2 |
+| lesson 1 | lesson 2 |
 
 # Alignment  
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left, right, or on both side of the hyphens within the header row.
@@ -159,3 +160,9 @@ ex. x=7;
 ```
 # Cheatsheet
 ![Cheatsheet](/assets/images/Markdownthree.jpg)
+
+# Helpful links:
+[Specification](https://daringfireball.net/projects/markdown/)  
+[Tutorial](https://commonmark.org/help/tutorial/index.html)  
+[Dialects/Flavours](https://sodocumentation.net/markdown/topic/1865/dialects-flavours)  
+[Extension](https://github.com/mundimark/awesome-markdown)  
