@@ -52,7 +52,7 @@ VS Code comes with a straight-forward and intuitive layout that maximizes the sp
 3. **Status Bar** – It contains the information about the opened project and the files you edit.
 4. **Activity Bar** – It is located on the far left-hand side. It lets you switch between views and gives you additional context-specific indicators, like the number of outgoing changes when Git is enabled.
 5. **Panels** – It displays different panels below the editor region for output or debug information, errors, and warnings, or an integrated terminal. Additionally, the panel can also move to the right for more vertical space.  
-![Step9](/assets/images/step9.png)
+![Step9](/assets/images/step9.png){: style="width: 400px;"}
 
 **Available views:**
 
@@ -64,7 +64,7 @@ VS Code comes with a straight-forward and intuitive layout that maximizes the sp
 3. **Source Control** - VS Code includes Git source control by default.  
 4. **Run** - VS Code's Run and Debug View displays variables, call stacks, and breakpoints.  
 5. **Extensions** - Install and manage your extensions within VS Code.  
-![Step10](/assets/images/step10.jpg)
+![Step10](/assets/images/step10.jpg){: style="width: 400px;"}
 
 # Markdown and Visual Studio Code  
 Markdown is a formatting language used when the resulting document will be rendered or converted into **HTML** documents for web-viewable material. The format is commonly used to generate documents like readme’s in GitHub or blog posts. Markdown documents are written in plain text, and thus are often simpler to create, edit and manage using text editors intended for writing code.  
@@ -74,7 +74,7 @@ VS Code supports Markdown files out of the box. You just start writing Markdown 
 The Outline view is a separate section in the bottom of the File Explorer. When expanded, it will show the symbol tree of the currently active editor. For Markdown files, the symbol tree is the Markdown file's header hierarchy.  
 
 # Additional options
-**Commands**: *Windows* Shift+Ctrl+P  
+**Commands**: for *Windows* Shift+Ctrl+P  
 **Tips**: Ctrl+Space  
 **Preview**: Open Preview to the Side  
 **Whitespace view**: View > Render Whitespace  
