@@ -30,7 +30,7 @@ GitHub
 4. Select your preferences and click **Submit**. GitHub displays a quick survey that can help you tailor your experience to match what you're looking for. Once you make your selection, you'll be taken to a screen that allows you to set up your first repository.
 
 # How to create a repository  
-1. Go to the GitHub website, look in the upper right corner, and click the + sign and then click “New repository.”
+1. Go to the GitHub website, look in the upper right corner, and click the + sign and then click “New repository.”  
 ![Step](/assets/images/GH8.jpg){: style="width: 400px;"}
 2. Name the repository, and add a quick description.
 3. Decide whether you want this to be a public or a private repository.
