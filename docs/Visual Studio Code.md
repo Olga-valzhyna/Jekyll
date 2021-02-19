@@ -3,12 +3,12 @@ layout: default
 title: Visual Studio Code
 nav_order: 2
 ---
-
 - [Visual Studio Code](#visual-studio-code)
 - [How to install Visual Studio Code on Windows](#how-to-install-visual-studio-code-on-windows)
 - [Essential components of Visual Studio Code](#essential-components-of-visual-studio-code)
 - [Markdown and Visual Studio Code](#markdown-and-visual-studio-code)
 - [Additional options](#additional-options)
+- [Helpful links](#helpful-links)
 
 # Visual Studio Code  
 Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git. Users can change the theme, keyboard shortcuts, preferences, and install extensions that add additional functionality.
@@ -74,16 +74,22 @@ VS Code supports Markdown files out of the box. You just start writing Markdown 
 The Outline view is a separate section in the bottom of the File Explorer. When expanded, it will show the symbol tree of the currently active editor. For Markdown files, the symbol tree is the Markdown file's header hierarchy.  
 
 # Additional options
-**Commands**: for *Windows* Shift+Ctrl+P  
-**Tips**: Ctrl+Space  
-**Preview**: Open Preview to the Side  
-**Whitespace view**: View > Render Whitespace  
-**Navigation**: Outline / Shift+Ctrl+P  @ / breadcrumbs  
-**A list of commands**: Shift+Ctrl+P > Preferences: Configure Language Specific Settings > Markdown > "editor.suggest.showWords": false  
+* **Commands**: for *Windows* Shift+Ctrl+P  
+* **Tips**: Ctrl+Space  
+* **Preview**: Open Preview to the Side  
 
+* **Whitespace view**: View > Render Whitespace  
+* **Navigation**: Outline / Shift+Ctrl+P @ / breadcrumbs  
+* **A list of commands**: Shift+Ctrl+P > Preferences: Configure Language Specific Settings > Markdown > "editor.suggest.showWords": false  
+
+In order to create a table of contents, follow the instruction:
 1. **Installation**: View > Extensions > Markdown All In One > Install  
 2. **Table of contents**: Shift+Ctrl+P > Create Table of Contents  
 3. **Formatting**: Shift+Ctrl+P > Format Document
+
+# Helpful links
+[VSC on GitHub](https://github.com/cangulo/meetups/tree/master/vs_code_for_docs/)  
+[VSC blog](https://tahoeninjas.blog/2019/03/30/multi-cursor-editing-in-visual-studio-code/)  
 
 
 
