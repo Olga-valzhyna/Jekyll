@@ -14,6 +14,7 @@ GitHub
 =========
 
 **GitHub** is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.
+**Git**is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
 # How to create an account on GitHub  
 1. Go to [GitHub](https://github.com/join) in a web browser.
@@ -24,10 +25,10 @@ GitHub
 3. Click the **Create an account** button.
 4. Complete the **CAPTCHA** puzzle. The instructions vary by puzzle, so just follow the on-screen instructions to confirm that you are a human.
 ![Step](/assets/images/GH10.jpg){: style="width: 400px;"}
-1. Click the **Choose** button for your desired plan. Once you select a plan, GitHub will send an email confirmation message to the address you entered.
-2. Click the **Verify email** address button in the message from GitHub. This confirms your email address and returns you to the sign-up process.
-3. Review your plan selection and click **Continue**. You can also choose whether you want to receive updates from GitHub via email by checking or unchecking the "Send me updates" box.
-4. Select your preferences and click **Submit**. GitHub displays a quick survey that can help you tailor your experience to match what you're looking for. Once you make your selection, you'll be taken to a screen that allows you to set up your first repository.
+5. Click the **Choose** button for your desired plan. Once you select a plan, GitHub will send an email confirmation message to the address you entered.
+6. Click the **Verify email** address button in the message from GitHub. This confirms your email address and returns you to the sign-up process.
+7. Review your plan selection and click **Continue**. You can also choose whether you want to receive updates from GitHub via email by checking or unchecking the "Send me updates" box.
+8. Select your preferences and click **Submit**. GitHub displays a quick survey that can help you tailor your experience to match what you're looking for. Once you make your selection, you'll be taken to a screen that allows you to set up your first repository.
 
 # How to create a repository  
 1. Go to the GitHub website, look in the upper right corner, and click the + sign and then click “New repository.”  
