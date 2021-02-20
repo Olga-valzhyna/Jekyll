@@ -71,7 +71,7 @@ Markdown is a formatting language used when the resulting document will be rende
 
 VS Code supports Markdown files out of the box. You just start writing Markdown text, save the file with the **.md extension** and then you can toggle the visualization of the editor between the code and the preview of the Markdown file; obviously, you can also open an existing Markdown file and start working with it. To switch between views, press **Ctrl+Shift+V** in the editor.  
 
-![.md extension](/assets/images/MV.jpg)  
+![.md extension](/assets/images/MV.jpg){: style="width: 400px;"}  
 
 # Additional options  
 * **Commands**: for *Windows* Shift+Ctrl+P  
