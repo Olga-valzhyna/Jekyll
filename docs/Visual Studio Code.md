@@ -74,13 +74,12 @@ VS Code supports Markdown files out of the box. You just start writing Markdown 
 ![.md extension](/assets/images/MV.jpg){: style="width: 400px;"}  
 
 # Additional options  
-* **Commands**: for *Windows* Shift+Ctrl+P  
-* **Tips**: Ctrl+Space  
-* **Preview**: Open Preview to the Side  
-
-* **Whitespace view**: View > Render Whitespace  
-* **Navigation**: Outline / Shift+Ctrl+P @ / breadcrumbs  
-* **A list of commands**: Shift+Ctrl+P > Preferences: Configure Language Specific Settings > Markdown > "editor.suggest.showWords": false  
+1. **Commands**: for *Windows* Shift+Ctrl+P  
+2. **Tips**: Ctrl+Space  
+3. **Preview**: Open Preview to the Side  
+4. **Whitespace view**: View > Render Whitespace  
+5. **Navigation**: Outline / Shift+Ctrl+P @ / breadcrumbs  
+6. **A list of commands**: Shift+Ctrl+P > Preferences: Configure Language Specific Settings > Markdown > "editor.suggest.showWords": false  
 
 In order to create a table of contents, follow the instruction:
 1. **Installation**: View > Extensions > Markdown All In One > Install  
