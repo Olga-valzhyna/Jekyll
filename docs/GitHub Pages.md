@@ -5,7 +5,7 @@ nav_order: 6
 ---
 GitHub Pages
 =============
-GitHub Pages is a service that turns Markdown files into a website and hosts them for free on the internet. If you know how to use GitHub and you need to create a simple webpage, you can’t do better than GitHub Pages. Just create a new repository on GitHub, commit the Markdown files, and enable the GitHub Pages feature. In order to start working with GitHub Pages, follow the instruction.  
+GitHub Pages is a service that turns Markdown files into a website and hosts them for free on the Internet. If you know how to use GitHub and you need to create a simple webpage, you can’t do better than GitHub Pages. Just create a new repository on GitHub, commit the Markdown files, and enable the GitHub Pages feature. In order to start working with GitHub Pages, follow the instruction.  
 
 1. Create a new public repository named **username.github.io**, where username is your username (or organization name) on **GitHub**.  
 ![GitHub Pages](/assets/images/P1.jpg)  
