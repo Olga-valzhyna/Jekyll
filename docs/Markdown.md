@@ -25,7 +25,7 @@ nav_order: 3
   - [Linking URL](#linking-url)
   - [Linking to another file](#linking-to-another-file)
 - [Tables](#tables)
-- [Alignment](#alignment)
+- [Alignment in tables](#alignment-in-tables)
 - [Code](#code)
 - [Cheatsheet](#cheatsheet)
 - [Helpful links](#helpful-links)
@@ -66,17 +66,19 @@ return.
 To bold text, add two asterisks (*) before and after a word or phrase. To
 bold the middle of a word for emphasis, add two asterisks without spaces around the
 letters.  
-ex. **Attention to detail with a creative eye.**
+![Technical writer](/assets/images/N1.jpg)  
+ex. **Attention to detail with a creative eye.**  
 
 ## Italic  
 To italicize text, add one asterisk before and after a word or phrase. To
 italicize the middle of a word for emphasis, add one asterisk without spaces around
 the letters.  
-
+![Technical writer](/assets/images/N2.jpg)  
 ex. *Passionate about learning and developing.*
 
 # Blockquotes  
 To create a blockquote, add a > in front of a paragraph.  
+![Technical writer](/assets/images/N3.jpg)  
 ex. Mark Zuckerberg believes:
 > Some people dream of success... while others wake up and work hard at it.
 
@@ -105,6 +107,7 @@ To create an unordered list, add asterisks (*) in front of line items.
 
 # Images  
 To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title after the URL in the parentheses.  
+![Technical writer](/assets/images/N4.jpg)  
 ![Technical writer](https://res.cloudinary.com/teepublic/image/private/s--0tQw5Of8--/t_Resized%20Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829015:production:blanks:mtl53ofohwq5goqjo9ke,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1541233046/production/designs/3434489_0.jpg){: style="width: 400px;"}
 
 # Links
@@ -141,7 +144,7 @@ To add a table, use three or more hyphens (---) to create each column’s header
 | course 1 | course 2 |
 | lesson 1 | lesson 2 |
 
-# Alignment  
+# Alignment in tables 
 You can align text in the columns to the left, right, or center by adding a colon (:) to the left, right, or on both side of the hyphens within the header row.
 
 # Code  
