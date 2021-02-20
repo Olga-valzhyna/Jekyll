@@ -37,11 +37,11 @@ Visual Studio Code has some very unique features:
 ![Step4](/assets/images/step4.png)
 7. As a default, the VS code shortcut will be placed in the Start Menu folder. You can change the destination or skip creating shortcuts.
 ![Step5](/assets/images/step5.png)
-8. You get a bunch of additional tasks to be performed before the installation begins. Choose tasks you prefer and continue.  
+8. You get a bunch of additional tasks to be performed before the installation begins. Choose the tasks you prefer and continue.  
 ![Step6](/assets/images/step6.png)
-9.  So you have set up everything and the VS code can be installed on your Windows 10 system now. Click on the install button.  
+9. So, you have set up everything and the VS code can be installed on your Windows 10 system now. Click on the **install button**.  
 ![Step7](/assets/images/step7.png)
-10.  After the successful installation, you can launch the VS code on your system. Click on the finish button, and the Visual Studio Code will get open.  
+1.  After the successful installation, you can launch the VS code on your system. Click on the **finish button**, and Visual Studio Code will get open.  
 ![Step8](/assets/images/step8.png)
 
 # Essential components of Visual Studio Code
@@ -69,11 +69,11 @@ VS Code comes with a straight-forward and intuitive layout that maximizes the sp
 # Markdown and Visual Studio Code  
 Markdown is a formatting language used when the resulting document will be rendered or converted into **HTML** documents for web-viewable material. The format is commonly used to generate documents like readme’s in GitHub or blog posts. Markdown documents are written in plain text, and thus are often simpler to create, edit and manage using text editors intended for writing code.  
 
-VS Code supports Markdown files out of the box. You just start writing Markdown text, save the file with the **.md extension** and then you can toggle the visualization of the editor between the code and the preview of the Markdown file; obviously, you can also open an existing Markdown file and start working with it. To switch between views, press **Ctrl+Shift+V** in the editor. 
+VS Code supports Markdown files out of the box. You just start writing Markdown text, save the file with the **.md extension** and then you can toggle the visualization of the editor between the code and the preview of the Markdown file; obviously, you can also open an existing Markdown file and start working with it. To switch between views, press **Ctrl+Shift+V** in the editor.  
 
-The Outline view is a separate section in the bottom of the File Explorer. When expanded, it will show the symbol tree of the currently active editor. For Markdown files, the symbol tree is the Markdown file's header hierarchy.  
+![.md extension](/assets/images/MV.jpg)  
 
-# Additional options
+# Additional options  
 * **Commands**: for *Windows* Shift+Ctrl+P  
 * **Tips**: Ctrl+Space  
 * **Preview**: Open Preview to the Side  
