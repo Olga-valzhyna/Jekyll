@@ -13,8 +13,8 @@ nav_order: 4
 GitHub
 =========
 
-**GitHub** is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.
-**Git**is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+**GitHub** is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.  
+**Git** is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
 
 # How to create an account on GitHub  
 1. Go to [GitHub](https://github.com/join) in a web browser.
