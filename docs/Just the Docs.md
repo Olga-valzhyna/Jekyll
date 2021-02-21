@@ -3,9 +3,17 @@ layout: default
 title: Just the Docs
 nav_order: 7
 ---
-
+- [Just the Docs](#just-the-docs)
+- [Jekyll](#jekyll)
+- [Username.github.io](#usernamegithubio)
+  - [1. _includes](#1-_includes)
+  - [2. assets/images](#2-assetsimages)
+  - [3. docs](#3-docs)
+  - [4. _config.yml](#4-_configyml)
+  - [5. index.md](#5-indexmd)
+  
 # Just the Docs
-**Just the Docs** is built for Jekyll, a static site generator. **Just the Docs** gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.  
+**Just the Docs** is built for a static site generator, that is called Jekyll. **Just the Docs** gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.  
 [Just the Docs](https://pmarsceill.github.io/just-the-docs/)  
 
 # Jekyll
@@ -22,7 +30,7 @@ It's a folder with SVG files (in case you have them. If not, you don't need such
 ![Jekyll](/assets/images/J2.jpg)  
 
 ## 2. assets/images  
-This folder contains JPGs, PNGs amd PDFs.  
+This folder contains JPGs, PNGs and PDFs.  
 
 ![Jekyll](/assets/images/J3.jpg)  
 
