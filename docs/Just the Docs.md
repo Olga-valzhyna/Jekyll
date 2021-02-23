@@ -67,5 +67,5 @@ This file is copied from **Just the Docs**
 
 ## 5. index.md  
 
-![Jekyll](/assets/images/J10.jpg)  
+![Jekyll](/assets/images/J11.jpg)  
 
