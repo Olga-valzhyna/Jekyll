@@ -44,11 +44,8 @@ And depending on the location of the document their structure is different.
 ![Jekyll](/assets/images/J4.jpg)  
 
 1. docs/file.md  
-
 ![Jekyll](/assets/images/J6.jpg)  
-
 2. docs/chapter/file.md  
-
 ![Jekyll](/assets/images/J7.jpg)  
 
 Within each chapter there should be a separate **index.md** file  
